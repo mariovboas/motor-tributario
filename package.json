@@ -1,0 +1,10 @@
+{
+  "name": "lpreco",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "LPreco — precificador com contratos na borda, domínio puro e infraestrutura isolada.",
+  "engines": {
+    "node": ">=20"
+  }
+}
